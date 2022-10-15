@@ -1,0 +1,5 @@
+#files to ignore
+.ipynb_checkpoints
+Updates in progress
+.DS_Store
+Magazine article.pages
